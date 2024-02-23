@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>عالم الطفل</title>
+<!-- #EndEditable -->
+<style type="text/css">
+.auto-style1 {
+	border: 1px solid #FFFFFF;
+	direction: rtl;
+	background-color: #FFFFFF;
+}
+.auto-style2 {
+	border-style: solid;
+	border-color: #800080;
+	text-align: center;
+	background-color: #800080;
+}
+.auto-style4 {
+	border-style: solid;
+	border-color: #800080;
+	text-align: center;
+	white-space: normal;
+	background-color: #800080;
+}
+.auto-style5 {
+	vertical-align: middle;
+}
+.auto-style6 {
+	background-color: #800080;
+}
+</style>
+<meta content="تربية تعليم تغذية طفل أطفال قصص عناية" name="keywords" />
+<meta content="موقع يهتم بالطفل منذ بداية نشائته إلى سن المراهقة" name="description" />
+<script type="text/javascript">
+<!--
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+<link href="test.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload="FP_preloadImgs(/*url*/'Buttons/buttonC.gif',/*url*/'Buttons/buttonD.gif',/*url*/'Buttons/buttonF.gif',/*url*/'Buttons/button10.gif',/*url*/'Buttons/button12.gif',/*url*/'Buttons/button13.gif',/*url*/'Buttons/button15.gif',/*url*/'Buttons/button16.gif',/*url*/'Buttons/button18.gif',/*url*/'Buttons/button19.gif',/*url*/'Buttons/button1B.gif',/*url*/'Buttons/button1C.gif')">
+
+<table class="auto-style1" style="width: 960px" dir="rtl" cellpadding="8">
+	<tr>
+		<td colspan="2" class="auto-style6">
+		<img alt="عالم الطفل" height="200" src="Banner.jpg" width="960" class="auto-style5" /></td>
+	</tr>
+	<tr>
+		<td colspan="2" class="auto-style4" style="height: 50px">
+		<a href="index.html">
+		<img id="img1" alt="الرئيسية" height="33" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'Buttons/buttonD.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'Buttons/buttonB.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'Buttons/buttonC.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'Buttons/buttonC.gif')" src="Buttons/buttonB.gif" style="border: 0" width="100" /><!-- MSComment="ibutton" fp-style="fp-btn: Metal Capsule 7; fp-font-style: Bold; fp-font-color-normal: #800080; fp-font-color-hover: #FF00FF; fp-transparent: 1" fp-title="الرئيسية" --></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+		<a href="Health.html">
+		<img id="img2" alt="صحة الطفل" height="33" onmousedown="FP_swapImg(1,0,/*id*/'img2',/*url*/'Buttons/button10.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img2',/*url*/'Buttons/buttonE.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img2',/*url*/'Buttons/buttonF.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img2',/*url*/'Buttons/buttonF.gif')" src="Buttons/buttonE.gif" style="border: 0" width="100" /><!-- MSComment="ibutton" fp-style="fp-btn: Metal Capsule 7; fp-font-style: Bold; fp-font-color-normal: #800080; fp-font-color-hover: #FF00FF; fp-transparent: 1; fp-proportional: 0" fp-title="صحة الطفل" --></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+		<a href="Food.html">
+		<img id="img3" alt="تغذية الطفل" height="33" onmousedown="FP_swapImg(1,0,/*id*/'img3',/*url*/'Buttons/button13.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img3',/*url*/'Buttons/button11.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img3',/*url*/'Buttons/button12.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img3',/*url*/'Buttons/button12.gif')" src="Buttons/button11.gif" style="border: 0" width="100" /><!-- MSComment="ibutton" fp-style="fp-btn: Metal Capsule 7; fp-font-style: Bold; fp-font-color-normal: #800080; fp-font-color-hover: #FF00FF; fp-transparent: 1; fp-proportional: 0" fp-title="تغذية الطفل" --></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+		<a href="Care.html">
+		<img id="img4" alt="العناية بالطفل" height="33" onmousedown="FP_swapImg(1,0,/*id*/'img4',/*url*/'Buttons/button16.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img4',/*url*/'Buttons/button14.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img4',/*url*/'Buttons/button15.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img4',/*url*/'Buttons/button15.gif')" src="Buttons/button14.gif" style="border: 0" width="100" /><!-- MSComment="ibutton" fp-style="fp-btn: Metal Capsule 7; fp-font-style: Bold; fp-font-color-normal: #800080; fp-font-color-hover: #FF00FF; fp-transparent: 1; fp-proportional: 0" fp-title="العناية بالطفل" --></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+		<a href="Education.html">
+		<img id="img5" alt="تربية الطفل" height="33" onmousedown="FP_swapImg(1,0,/*id*/'img5',/*url*/'Buttons/button19.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img5',/*url*/'Buttons/button17.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img5',/*url*/'Buttons/button18.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img5',/*url*/'Buttons/button18.gif')" src="Buttons/button17.gif" style="border: 0" width="100" /><!-- MSComment="ibutton" fp-style="fp-btn: Metal Capsule 7; fp-font-style: Bold; fp-font-color-normal: #800080; fp-font-color-hover: #FF00FF; fp-transparent: 1; fp-proportional: 0" fp-title="تربية الطفل" --></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+		<a href="Stories.html">
+		<img id="img6" alt="قصص الأطفال" height="33" onmousedown="FP_swapImg(1,0,/*id*/'img6',/*url*/'Buttons/button1C.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img6',/*url*/'Buttons/button1A.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img6',/*url*/'Buttons/button1B.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img6',/*url*/'Buttons/button1B.gif')" src="Buttons/button1A.gif" style="border: 0" width="100" /><!-- MSComment="ibutton" fp-style="fp-btn: Metal Capsule 7; fp-font-style: Bold; fp-font-color-normal: #800080; fp-font-color-hover: #FF00FF; fp-transparent: 1; fp-proportional: 0" fp-title="قصص الأطفال" --></a></td>
+	</tr>
+	<tr>
+		<td style="width: 480px"><!-- #BeginEditable "A" -->
+		<p class="bodycopy" style="width: 467px">&nbsp;</p>
+<!-- #EndEditable -->
+		</td>
+		<td style="width: 480px"><!-- #BeginEditable "B" -->
+		<p class="bodycopy" style="width: 461px">&nbsp;</p>
+<!-- #EndEditable -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="auto-style2" style="height: 50px">
+		<span class="copyright">Copyright 
+		2017 - Mohamed Hasan Ali</span></td>
+	</tr>
+</table>
+
+</body>
+
+</html>
